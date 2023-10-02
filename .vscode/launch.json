@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ListaTarefas",
+            "request": "launch",
+            "mainClass": "set.pesquisa.ListaTarefas",
+            "projectName": "Dio-Collections-Java-API_9a7b9c82"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CarrinhoDeCompras",
+            "request": "launch",
+            "mainClass": "list.operacoesBasicas.CarrinhoDeCompras",
+            "projectName": "Dio-Collections-Java-API_9a7b9c82"
+        },
+        {
+            "type": "java",
+            "name": "ListaTarefa",
+            "request": "launch",
+            "mainClass": "list.operacoesBasicas.ListaTarefa",
+            "projectName": "Dio-Collections-Java-API_9a7b9c82"
+        },
+        {
+            "type": "java",
+            "name": "OrdenacaoNumeros",
+            "request": "launch",
+            "mainClass": "list.ordenacao.OrdenacaoNumeros",
+            "projectName": "Dio-Collections-Java-API_9a7b9c82"
+        },
+        {
+            "type": "java",
+            "name": "OrdenacaoPessoas",
+            "request": "launch",
+            "mainClass": "list.ordenacao.OrdenacaoPessoas",
+            "projectName": "Dio-Collections-Java-API_9a7b9c82"
+        },
+        {
+            "type": "java",
+            "name": "CatalogoLivros",
+            "request": "launch",
+            "mainClass": "list.pesquisa.CatalogoLivros",
+            "projectName": "Dio-Collections-Java-API_9a7b9c82"
+        },
+        {
+            "type": "java",
+            "name": "SomaNumeros",
+            "request": "launch",
+            "mainClass": "list.pesquisa.SomaNumeros",
+            "projectName": "Dio-Collections-Java-API_9a7b9c82"
+        },
+        {
+            "type": "java",
+            "name": "ConjuntoConvidados",
+            "request": "launch",
+            "mainClass": "set.operacoesBasicas.ConjuntoConvidados",
+            "projectName": "Dio-Collections-Java-API_9a7b9c82"
+        },
+        {
+            "type": "java",
+            "name": "ConjuntoPalavrasUnicas",
+            "request": "launch",
+            "mainClass": "set.operacoesBasicas.ConjuntoPalavrasUnicas",
+            "projectName": "Dio-Collections-Java-API_9a7b9c82"
+        },
+        {
+            "type": "java",
+            "name": "AgendaContatos",
+            "request": "launch",
+            "mainClass": "set.pesquisa.AgendaContatos",
+            "projectName": "Dio-Collections-Java-API_9a7b9c82"
+        }
+    ]
+}

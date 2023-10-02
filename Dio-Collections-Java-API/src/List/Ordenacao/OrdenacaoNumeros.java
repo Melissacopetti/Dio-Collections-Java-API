@@ -1,6 +1,4 @@
-package List.Ordenacao;
-
-import List.Pesquisa.SomaNumeros;
+package list.ordenacao;
 
 import java.util.ArrayList;
 import java.util.Collections;
