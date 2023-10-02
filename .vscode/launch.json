@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GerenciadorAlunos",
+            "request": "launch",
+            "mainClass": "set.ordenacao.GerenciadorAlunos",
+            "projectName": "Dio-Collections-Java-API_9a7b9c82"
+        },
+        {
+            "type": "java",
+            "name": "CadastroProdutos",
+            "request": "launch",
+            "mainClass": "set.ordenacao.CadastroProdutos",
+            "projectName": "Dio-Collections-Java-API_9a7b9c82"
+        },
+        {
+            "type": "java",
             "name": "ListaTarefas",
             "request": "launch",
             "mainClass": "set.pesquisa.ListaTarefas",
